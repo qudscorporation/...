@@ -1,0 +1,28 @@
+<style type="text/css">
+h1{
+    align-content: center;
+    background-color: rgb(172, 157, 128);
+    color: aquamarine;
+}
+p{
+    color: green;
+    background-color: black;
+    font-size: 24px;
+}
+div{
+    align-content: center;
+    color: black;
+    background-color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+button{
+    color: black;
+    background-color: skyblue;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+
+</style>
